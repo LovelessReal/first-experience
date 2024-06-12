@@ -54,7 +54,7 @@ line-height: auto;
 
 .logo_simple
 {
-    font-size: 16;
+    font-size: 16px;
 }
 
 
@@ -73,8 +73,9 @@ display: inline-block;
 position:absolute;
 Width: 540px;
 Height: 800px;
-margin-top: 60px;
-margin-left: 735px;
+margin-top: 30px;
+margin-right: 50px;
+margin-left: 200px;
 display: inline-block;
 }
 
@@ -85,4 +86,9 @@ display: inline-block;
     width: 255px;
     height: 70px;
     background-color: #FFFFFF;
+}
+
+.catalog:hover
+{background-color: #e3d2e4;
+transition:0.5s;
 }
