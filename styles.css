@@ -82,5 +82,7 @@ display: inline-block;
 {
     border: solid, 1px, #7875FE;
     line-height: auto;
-    font-size: #7875FE;
+    width: 255px;
+    height: 70px;
+    background-color: #FFFFFF;
 }
