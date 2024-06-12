@@ -77,3 +77,10 @@ margin-top: 60px;
 margin-left: 735px;
 display: inline-block;
 }
+
+.catalog
+{
+    border: solid, 1px, #7875FE;
+    line-height: auto;
+    font-size: #7875FE;
+}
